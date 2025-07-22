@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048035984243",
+    "project_id": "tri-county-academy",
+    "storage_bucket": "tri-county-academy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048035984243:android:17db222841694030a7bb06",
+        "android_client_info": {
+          "package_name": "app.android.tricountyacademy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5VCxwbvrV2Vks6F6BE6OMOdjzlDijsU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
